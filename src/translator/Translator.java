@@ -17,7 +17,8 @@ public class Translator {
     public static void main(String[] args) {
         System.out.println("Hello world");
         int i=20;
-        long k=i+20;
+        long k=i+20+31;
+        System.out.println(k);
         
     }
     
