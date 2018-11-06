@@ -19,6 +19,7 @@ public class Translator {
         int i=20;
         long k=i+20+31;
         System.out.println(k);
+        String H= "hallelua";
         
     }
     
