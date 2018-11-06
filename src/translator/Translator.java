@@ -15,7 +15,9 @@ public class Translator {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello world");
+        String l = "Make some noise";
+        System.out.println(l);
     }
     
 }
