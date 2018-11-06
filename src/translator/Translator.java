@@ -60,7 +60,7 @@ public class Translator {
         maptrans.put("дедлайн", "deadline");
         maptrans.put("что", "that");
         maptrans.put("дедлайн", "deadline");
-
+        maptrans.put("fuckup", "факап");
         
         //System.out.println(map1);
         //System.out.println(map1.get("красный"));        
