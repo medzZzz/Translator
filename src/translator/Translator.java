@@ -16,8 +16,10 @@ public class Translator {
      */
     public static void main(String[] args) {
         System.out.println("Hello world");
-        String l = "Make some noise";
-        System.out.println(l);
+        String l = "Make some Noize!";
+        System.out.println(l+"Hipe!");
+        int k=2;
+        
     }
     
 }
