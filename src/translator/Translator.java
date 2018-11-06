@@ -16,9 +16,8 @@ public class Translator {
      */
     public static void main(String[] args) {
         System.out.println("Hello world");
-        String l = "Make some Noize!";
-        System.out.println(l+"Hipe!");
-        int k=2;
+        int i=20;
+        long k=i+20;
         
     }
     
